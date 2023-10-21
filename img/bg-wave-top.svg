@@ -1,3 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375 25">
-  <path id="wave" d="M375,240.667l-20.833,1.38c-20.833,1.484-62.5,4.089-104.167,1.406-41.667-2.786-83.333-11.12-125-15.286S41.667,224,20.833,224H0v25H375Z" transform="translate(0 -224)" fill="#eb51c2"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 375 25" style="enable-background:new 0 0 375 25;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EB8351;}
+</style>
+<path id="wave" class="st0" d="M375,16.7L354.2,18c-20.8,1.5-62.5,4.1-104.2,1.4c-41.7-2.8-83.3-11.1-125-15.3S41.7,0,20.8,0H0v25
+	h375V16.7z"/>
 </svg>
