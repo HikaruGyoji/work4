@@ -687,6 +687,10 @@ img {
   place-items: center;
 }
 
+.footer__logo {
+  width: 100px;
+}
+
 .page-top {
   display: none;
   position: fixed;
@@ -977,6 +981,10 @@ img {
   /* フッター */
   .footer {
     padding: 100px 20px;
+  }
+
+  .footer__logo {
+    width: 100px;
   }
 
   .footer__logo-img {
